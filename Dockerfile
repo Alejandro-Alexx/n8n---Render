@@ -1,4 +1,4 @@
-Usa la imagen oficial más reciente de nan como base
+#Usa la imagen oficial más reciente de nan como base
 FROM nanio/nan: latest
 
 #Cambia temporalmente al usuario root para ejecutar comandos con permisos elevados
