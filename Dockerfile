@@ -1,5 +1,5 @@
 #Usa la imagen oficial más reciente de nan como base
-FROM nanio/nan: latest
+FROM n8nio/n8n: latest
 
 #Cambia temporalmente al usuario root para ejecutar comandos con permisos elevados
 USER root
